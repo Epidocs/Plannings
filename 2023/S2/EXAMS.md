@@ -22,6 +22,7 @@ Pour plus d'informations, consultez le fichier [README.md](#).
 - Les équations différentielles.
 	- Quelques questions seulement.
 - Les polynômes.
+- Les développements limités.
 
 #### Contrôle TD – Lundi 01/04
 
