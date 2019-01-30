@@ -74,6 +74,7 @@ Pour plus d'informations, consultez le fichier [README.md](#).
 		- Vidéo 2 : "Parcours largeur"
 		- S'évaluer
 - **Maths** : Modules 10, 11
+- **Physique** : Module 6, 7
 
 ### Semaine du 11/02
 
