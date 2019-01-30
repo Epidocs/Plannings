@@ -14,3 +14,5 @@ Vous êtes invités à contribuer au document si vous y trouvez une erreur ou qu
 ---
 
 **Administrateur du repository :** Mathieu Guérin ("Matiboux")
+
+Un problème, une question, une suggestion ? [Contactez-moi](CONTACT.md) !
