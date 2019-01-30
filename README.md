@@ -11,7 +11,7 @@ Vous êtes invités à contribuer au document si vous y trouvez une erreur ou qu
 
 ## Accès rapide
 
-- **2023 / Semestre 2** : [Planning de Travail](2023/S1/HOMEWORK.md) - [Informations Exams](2023/S1/EXAMS.md)
+- **2023 / Semestre 2** : [Planning de Travail](2023/S2/HOMEWORK.md) - [Informations Exams](2023/S2/EXAMS.md)
 
 ---
 
