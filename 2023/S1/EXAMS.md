@@ -26,6 +26,10 @@ Pour plus d'informations, consultez le fichier [README.md](#).
 - Suites numériques.
 - Arithmétique (jusqu’à l’exercice 5 inclus).
 
+#### AFIT
+
+- **Deadline :** Vendredi 21/12 à 23h42
+- **Site internet :** [maths.prepa.cri.epita.fr/AFIT](https://maths.prepa.cri.epita.fr/AFIT.html)
 
 ## Midterms
 
