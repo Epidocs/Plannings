@@ -40,4 +40,4 @@ _Pas d'information pour le moment._
 
 ## Rattrapages Partiels
 
-Prévus entre le 9 et le 10 juillet. (?)
+Prévus le 9 et le 10 juillet.
