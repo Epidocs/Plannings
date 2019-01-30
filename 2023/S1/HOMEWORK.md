@@ -83,6 +83,8 @@ Pour plus d'informations, consultez le fichier [README.md](#).
 ### Semaine du 26/11
 
 - **Prog** : C# TP2
+- **AFIT Maths**
+	- `builtin/builtin.ml`
 - **Algo**
 	- Module 8 "Ensembles"
 	- Module 9 "Ensembles - implémentations"
@@ -91,6 +93,11 @@ Pour plus d'informations, consultez le fichier [README.md](#).
 ### Semaine du 03/12
 
 - **Prog** : C# TP3
+- **AFIT Maths**
+	- `builtin/basic_arithmetics.ml`
+	- `builtin/power.ml`
+	- `builtin/test_primes.ml`
+	- `builtin/generate_primes.ml`
 - **Algo** : Module 10 "Recherches séquentielles"
 - **Maths** : Modules 16, 18
 - **Physique** : Modules 7, 8
@@ -98,6 +105,10 @@ Pour plus d'informations, consultez le fichier [README.md](#).
 ### Semaine du 10/12
 
 - **Prog** : C# TP4
+- **AFIT Maths**
+	- `builtin/ciphers.ml`
+	- `builtin/break_ciphers.ml`
+	- `builtin/encoding.ml`
 - **Algo**
 	- Module 11 "Recherche dichotomique et interpolation"
 		- Vidéo 1 : "Recherche dichotomique"
@@ -106,6 +117,9 @@ Pour plus d'informations, consultez le fichier [README.md](#).
 ### Semaine du 17/12
 
 - **Prog** : C# TP5
+- **AFIT Maths**
+	- `scalable/scalable.ml` (opérations arithmétiques `bitarray`)
+	- Projet à rendre pour le 21/12 à 23h42
 - **Algo**
 	- Module 11 "Recherche dichotomique et interpolation"
 		- Vidéo 2 : "Interpolation"
