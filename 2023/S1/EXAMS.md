@@ -31,6 +31,8 @@ Pour plus d'informations, consultez le fichier [README.md](#).
 - **Deadline :** Vendredi 21/12 à 23h42
 - **Site internet :** [maths.prepa.cri.epita.fr/AFIT](https://maths.prepa.cri.epita.fr/AFIT.html)
 
+**Note :** À cause d'un retard sur la correction, les notes de ce projet ne seront pas prêtes à temps pour le semestre 1. Elles compteront donc pour le semestre 2.
+
 ## Midterms
 
 ### Maths
