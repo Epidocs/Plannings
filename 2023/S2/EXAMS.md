@@ -28,6 +28,12 @@ Pour plus d'informations, consultez le fichier [README.md](#).
 
 _Pas d'information pour le moment._
 
+#### AFIT (Semestre 1)
+
+À cause d'un retard sur la correction, les notes de ce projet compteront pour le semestre 2.
+
+- **Site internet :** [maths.prepa.cri.epita.fr/AFIT](https://maths.prepa.cri.epita.fr/AFIT.html)
+
 
 ## Midterms
 
