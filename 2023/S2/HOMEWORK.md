@@ -66,6 +66,8 @@ Pour plus d'informations, consultez le fichier [README.md](#).
 - **Anglais CIE** : Chapitres 4, 5, 6 (Book I, 1984, G. Orwell)
 - **Anglais TIM** : Units 3, 4 (MOOC)
 
+/!\ **Contrôle TD** en Maths – Lundi 04/02 (infos dans [EXAMS.md](EXAMS.md))
+
 ### Semaine du 04/02
 
 - **Algo**
@@ -103,6 +105,8 @@ Pour plus d'informations, consultez le fichier [README.md](#).
 ### Semaine du 25/03
 
 - **Maths** : Modules 20, 21, 22, 23
+
+/!\ **Contrôle TD** en Maths – Lundi 01/04 (infos dans [EXAMS.md](EXAMS.md))
 
 ### Semaine du 01/04
 
