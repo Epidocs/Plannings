@@ -20,7 +20,6 @@ Pour plus d'informations, consultez le fichier [README.md](#).
 #### Contrôle TD – Lundi 04/02
 
 - Les équations différentielles.
-	- Quelques questions seulement.
 - Les polynômes.
 - Les développements limités.
 
