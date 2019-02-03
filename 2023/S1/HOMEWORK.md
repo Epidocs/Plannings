@@ -32,6 +32,8 @@ Pour plus d'informations, consultez le fichier [README.md](#).
 - **Maths** : Dénombrement & Probabilités
 - **Physique** : Modules 1, 2
 
+/!\ **Contrôle TD** en Maths – Lundi 08/10 (infos dans [EXAMS.md](EXAMS.md))
+
 ### Semaine du 08/10
 
 - **Prog** : OCaml TP3
@@ -89,6 +91,8 @@ Pour plus d'informations, consultez le fichier [README.md](#).
 	- Module 8 "Ensembles"
 	- Module 9 "Ensembles - implémentations"
 - **Maths** : Module 15
+
+/!\ **Contrôle TD** en Maths – Lundi 03/12 (infos dans [EXAMS.md](EXAMS.md))
 
 ### Semaine du 03/12
 
