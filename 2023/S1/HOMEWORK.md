@@ -10,7 +10,7 @@ Ce planning regroupe parmi le travail à faire chaque semaine :
 - Les TDs à revoir.
 
 **Rappel :** Ce document **n'est pas officiel**.
-Pour plus d'informations, consultez le fichier [README.md](#).
+Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 
 
 ## Semestre 1
