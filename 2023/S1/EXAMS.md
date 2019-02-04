@@ -6,7 +6,7 @@ Ce document regroupe les informations sur toutes les matières évalués, pour :
 - Les Partiels.
 
 **Rappel :** Ce document **n'est pas officiel**.
-Pour plus d'informations, consultez le fichier [README.md](#).
+Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 
 
 ## QCMs & Contrôles TD
