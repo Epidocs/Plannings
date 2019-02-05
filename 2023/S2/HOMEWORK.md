@@ -63,6 +63,7 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 - **Maths** : Modules 7, 8, 9
 - **Physique** : Module 1
 - **Élec** : Module 1
+- **Archi** : Cours Chapitre 2 (I, II, III)
 - **Anglais CIE** : Chapitres 4, 5, 6 (Book I, 1984, G. Orwell)
 - **Anglais TIM** : Units 3, 4 (MOOC)
 
