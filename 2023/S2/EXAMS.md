@@ -36,7 +36,12 @@ _Pas d'information pour le moment._
 
 ## Midterms
 
-_Pas d'information pour le moment._
+### Physique
+
+- Oscillateur harmonique
+- Oscillateur amorti
+- Flux thermique
+- Calorimétrie
 
 
 ## Partiels
