@@ -78,6 +78,7 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 		- S'évaluer
 - **Maths** : Modules 10, 11
 - **Physique** : Module 6, 7
+- **Anglais CIE** : Chapitres 7, 8 (Book I, 1984, G. Orwell)
 
 ### Semaine du 11/02
 
@@ -90,6 +91,7 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 		- Vidéo 2 : "Recherche"
 		- S'évaluer
 - **Maths** : Modules 12, 13, 14
+- **Anglais CIE** : Chapitres 1, 2, 3 (Book II, 1984, G. Orwell)
 
 ### Semaine du 18/02
 
@@ -98,6 +100,8 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 		- Vidéo 1 : "Ajout en feuille"
 		- Vidéo 2 : "Ajout en racine"
 - **Maths** : Modules 15, 16, 17
+- **Anglais CIE**
+  - Première version concrète pour le projet de groupe (sur 1984, G. Orwell)
 
 ### Semaine du 18/03
 
