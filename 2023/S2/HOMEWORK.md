@@ -71,6 +71,7 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 
 ### Semaine du 04/02
 
+- **Prog** : C# TP7
 - **Algo**
 	- Module 5 "Arbres généraux - Parcours"
 		- Vidéo 1 : "Parcours profondeur"
