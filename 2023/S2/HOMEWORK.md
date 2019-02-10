@@ -79,6 +79,7 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 		- S'évaluer
 - **Maths** : Modules 10, 11
 - **Physique** : Module 6, 7
+- **Archi** : Cours Chapitre 2 (IV)
 - **Anglais CIE** : Chapitres 7, 8 (Book I, 1984, G. Orwell)
 - **Anglais TIM** : Units 5, 6 (MOOC)
 
