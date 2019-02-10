@@ -80,6 +80,7 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 - **Maths** : Modules 10, 11
 - **Physique** : Module 6, 7
 - **Anglais CIE** : Chapitres 7, 8 (Book I, 1984, G. Orwell)
+- **Anglais TIM** : Units 5, 6 (MOOC)
 
 ### Semaine du 11/02
 
@@ -93,6 +94,7 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 		- S'évaluer
 - **Maths** : Modules 12, 13, 14
 - **Anglais CIE** : Chapitres 1, 2, 3 (Book II, 1984, G. Orwell)
+- **Anglais TIM** : Units 7, 8 (MOOC)
 
 ### Semaine du 18/02
 
