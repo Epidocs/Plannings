@@ -36,6 +36,25 @@ _Pas d'information pour le moment._
 
 ## Midterms
 
+### Programmation
+
+Voilà la liste des notions à revoir pour les midterms :
+
+- [Tableaux](https://docs.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp/arrays) (TP3)
+- [`List<T>`](https://docs.microsoft.com/fr-fr/dotnet/api/system.collections.generic.list-1?view=netframework-4.7.2) (TP4, TP6, TP7)
+- [`HashSet<T>`](https://docs.microsoft.com/fr-fr/dotnet/api/system.collections.generic.hashset-1?view=netframework-4.7.2) (TP9)
+- [`Random`](https://docs.microsoft.com/fr-fr/dotnet/api/system.random?view=netframework-4.7.2) (TP1, TP4, TP5)
+- Manipulation de fichiers (TP5, TP8) :
+  - [`StreamReader`](https://docs.microsoft.com/fr-fr/dotnet/api/system.io.streamreader?view=netframework-4.7.2)
+  - [`StreamWriter`](https://docs.microsoft.com/fr-fr/dotnet/api/system.io.streamwriter?view=netframework-4.7.2)
+- Mot-clé [`ref`](https://docs.microsoft.com/fr-fr/dotnet/csharp/language-reference/keywords/ref) (TP3)
+- Mot-clé [`enum`](https://docs.microsoft.com/fr-fr/dotnet/csharp/language-reference/keywords/enum) (TP4, TP5)
+- Modificateur [`override`](https://docs.microsoft.com/fr-fr/dotnet/csharp/language-reference/keywords/override) (TP4)
+
+En cas de problèmes majeurs sur votre compréhension du language, refaites [un tour de C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp/) avec la documentation.
+
+*Les liens pointent vers la documentation MSDN pour vous aider.*
+
 ### Physique
 
 - Oscillateur harmonique
