@@ -57,8 +57,23 @@ En cas de problèmes majeurs sur votre compréhension du language, refaites [un 
 
 ### Physique
 
-- Oscillateur harmonique
-- Oscillateur amorti
+Pensez à regardez vos MiMos ! Notamment :
+- Oscillateur amorti (Module 1)
+- Propagation chaleur (Module 7)
+
+Également au programme de révision :
+- Tous les TD faits depuis le Partiel de S1.
+- Les équations différentielles et leur résolution.
+- La base de Frenet (parce que ça tombe tout le temps).
+
+#### Partie QCM
+
+- Mécanique
+- Thermodynamique
+
+#### Partie Exercices (3 exercices)
+
+- Oscillateurs harmonique et amorti
 - Flux thermique
 - Calorimétrie
 
