@@ -46,7 +46,7 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 - **Archi**
 	- Cours Chapitre 1
 	- TD 1, 2
-- **Anglais CIE** : Chapitre 2, 3 (Book I, 1984, G. Orwell)
+- **Anglais CIE** : Chapitres 2, 3 (Book I, 1984, G. Orwell)
 - **Anglais TIM** : Units 1, 2 (MOOC)
 
 ### Semaine du 28/01
@@ -78,7 +78,7 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 		- Vidéo 2 : "Parcours largeur"
 		- S'évaluer
 - **Maths** : Modules 10, 11
-- **Physique** : Module 6, 7
+- **Physique** : Modules 6, 7
 - **Archi** : Cours Chapitre 2 (IV)
 - **Anglais CIE** : Chapitres 7, 8 (Book I, 1984, G. Orwell)
 - **Anglais TIM** : Units 5, 6 (MOOC)
@@ -104,6 +104,7 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 		- Vidéo 1 : "Ajout en feuille"
 		- Vidéo 2 : "Ajout en racine"
 - **Maths** : Modules 15, 16, 17
+- **Physique** : Modules 8, 9
 - **Anglais CIE**
   - Première version concrète pour le projet de groupe (sur 1984, G. Orwell)
 
