@@ -104,13 +104,13 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 		- Vidéo 1 : "Ajout en feuille"
 		- Vidéo 2 : "Ajout en racine"
 - **Maths** : Modules 15, 16, 17
-- **Physique** : Modules 8, 9
 - **Anglais CIE**
   - Première version concrète pour le projet de groupe (sur 1984, G. Orwell)
 
 ### Semaine du 18/03
 
 - **Maths** : Modules 18, 19
+- **Physique** : Modules 8, 9
 
 ### Semaine du 25/03
 
