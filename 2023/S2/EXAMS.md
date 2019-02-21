@@ -55,7 +55,15 @@ En cas de problèmes majeurs sur votre compréhension du language, refaites [un 
 
 *Les liens pointent vers la documentation MSDN pour vous aider.*
 
-### Physique
+### Maths
+
+Le contrôle portera sur :
+- Les équations différentielles
+- Les polynômes
+- Les développements limités (avec calculs de limites)
+- Le début des espaces vectoriels (ev, sev, sev supplémentaires et sev engendrés)
+
+### Phsique
 
 Pensez à regardez vos MiMos ! Notamment :
 - Oscillateur amorti (Module 1)
