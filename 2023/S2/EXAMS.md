@@ -94,6 +94,14 @@ Pensez à regardez vos MiMos ! Notamment :
 
 Le contrôle se présentera comme un QCM, avec 120 questions (3 fiches QCM).
 
+### Anglais TIM
+
+Voir le MOOC Video Games History (Units 6, 7, 8, 9).
+
+Le contrôle sera composé de :
+- 50 questions de QCM
+- 2 rédactions
+
 
 ## Partiels
 
