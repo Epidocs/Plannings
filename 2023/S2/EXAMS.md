@@ -85,6 +85,15 @@ Pensez à regardez vos MiMos ! Notamment :
 - Flux thermique
 - Calorimétrie
 
+### Anglais CIE
+
+- Grammaire : Chapitres 1, 2, 3
+- *1984, G. Orwell* :
+  - Part I : Tous les chapitres
+  - Part II : Chapitres 1, 2 3
+
+Le contrôle se présentera comme un QCM, avec 120 questions (3 fiches QCM).
+
 
 ## Partiels
 
