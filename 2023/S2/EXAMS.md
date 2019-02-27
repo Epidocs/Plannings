@@ -34,6 +34,26 @@ _Pas d'information pour le moment._
 - **Site internet :** [maths.prepa.cri.epita.fr/AFIT](https://maths.prepa.cri.epita.fr/AFIT.html)
 
 
+## Projet de S2
+
+### Première soutenance
+
+- Semaine du 11/03
+
+### Seconde soutenance
+
+- Semaine du 22/04
+
+ℹ _Le lundi 22/04 est un jour férié._
+
+### Dernière soutenance
+
+- Semaine du 27/05
+- Semaine du 03/06
+
+ℹ _Le jeudi 30/05 est un jour férié._
+
+
 ## Midterms
 
 ### Programmation
