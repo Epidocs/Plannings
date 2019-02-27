@@ -55,7 +55,13 @@ En cas de problèmes majeurs sur votre compréhension du language, refaites [un 
 
 *Les liens pointent vers la documentation MSDN pour vous aider.*
 
-### Maths
+### Algorithmique
+
+Le contrôle portera sur :
+- Les matrices
+- Les arbres binaires
+
+### Mathématiques
 
 Le contrôle portera sur :
 - Les équations différentielles
@@ -63,7 +69,7 @@ Le contrôle portera sur :
 - Les développements limités (avec calculs de limites)
 - Le début des espaces vectoriels (ev, sev, sev supplémentaires et sev engendrés)
 
-### Phsique
+### Physique
 
 Pensez à regardez vos MiMos ! Notamment :
 - Oscillateur amorti (Module 1)
@@ -85,6 +91,16 @@ Pensez à regardez vos MiMos ! Notamment :
 - Flux thermique
 - Calorimétrie
 
+### Électronique
+
+- Le régime variable
+- TDs 1, 2
+
+### Architecture Sytème
+
+- Chapitres 1, 2
+- TDs 1, 2, 3
+
 ### Anglais CIE
 
 - Grammaire : Chapitres 1, 2, 3
@@ -96,7 +112,8 @@ Le contrôle se présentera comme un QCM, avec 120 questions (3 fiches QCM).
 
 ### Anglais TIM
 
-Voir le MOOC Video Games History (Units 6, 7, 8, 9).
+- Voir le MOOC Video Games History (Units 6, 7, 8, 9)
+- Livret : pages 14 à 18
 
 Le contrôle sera composé de :
 - 50 questions de QCM
