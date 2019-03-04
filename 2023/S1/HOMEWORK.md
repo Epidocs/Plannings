@@ -63,6 +63,10 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 	- Cours Chapitre 1
 	- TD 1, 2, 3
 
+### Semaine du 29/10 – Midterms
+
+/!\ **Programme des Midterms** dans [EXAMS.md # Midterms](EXAMS.md#midterms).
+
 ### Semaine du 12/11
 
 - **Algo**
@@ -129,3 +133,8 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 		- Vidéo 2 : "Interpolation"
 		- S'évaluer
 - **Maths** : Modules 1, 2 (MiMos S2)
+
+### Semaine du 07/01 – Partiels
+
+/!\ **Programme des Partiels** dans [EXAMS.md # Partiels](EXAMS.md#partiels).
+
