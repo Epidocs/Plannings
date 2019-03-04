@@ -107,6 +107,10 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 - **Anglais CIE**
   - Première version concrète pour le projet de groupe (sur 1984, G. Orwell)
 
+### Semaine du 04/03 – Midterms
+
+/!\ **Programme des Midterms** dans [EXAMS.md # Midterms](EXAMS.md#midterms).
+
 ### Semaine du 18/03
 
 - **Maths** : Modules 18, 19
@@ -129,6 +133,11 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 ### Semaine du 29/04
 
 - **Maths** : Module 26
+
+### Semaine du 20/05 – Partiels
+
+/!\ **Programme des Partiels** dans [EXAMS.md # Partiels](EXAMS.md#partiels).
+
 
 ---
 
