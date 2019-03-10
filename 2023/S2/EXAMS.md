@@ -48,8 +48,7 @@ _Pas d'information pour le moment._
 
 ### Dernière soutenance
 
-- Semaine du 27/05
-- Semaine du 03/06
+- Semaine du 27/05 et du 03/06
 
 ℹ _Le jeudi 30/05 est un jour férié._
 
