@@ -116,6 +116,7 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 		- Vidéo 2 : "Ajout en racine"
 - **Maths** : Modules 18, 19
 - **Physique** : Modules 8, 9
+- **Élec** : Module 2
 
 ### Semaine du 25/03
 
