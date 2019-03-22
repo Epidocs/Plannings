@@ -131,27 +131,22 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 
 ### Semaine du 01/04
 
-- **Algo**
-	- Module 9 "A-V.L. - Rotations et présentation"
+- **Algo** : Module 9 "A-V.L. - Rotations et présentation"
 - **Maths** : Modules 24, 25
 
 ### Semaine du 08/04
 
-- **Algo**
-	- Module 10 "A-V.L. - Ajout et suppression"
+- **Algo** : Module 10 "A-V.L. - Ajout et suppression"
 - **Maths** : Révision des modules 7 à 25
 
 ### Semaine du 29/04
 
-- **Algo**
-	- Module 11 "Arbres 2-3-4 - Définition et recherche"
+- **Algo** : Module 11 "Arbres 2-3-4 - Définition et recherche"
 - **Maths** : Module 26
 
 ### Semaine du 06/05
 
-- **Algo**
-	- Module 12 "Arbres 2-3-4 - Insertion et suppression"
-	- Module 13 "Arbres 2-3-4 - Implémentations / Arbres bicolores"
+- **Algo** : Module 12 "Arbres 2-3-4 - Insertion et suppression"
 
 ### Semaine du 20/05 – Partiels
 
@@ -161,5 +156,4 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 
 ### MiMos Bonus
 
-- **Algo**
-	- Module 13 "Arbres 2-3-4 - Implémentations / Arbres bicolores"
+- **Algo** : Module 13 "Arbres 2-3-4 - Implémentations / Arbres bicolores"
