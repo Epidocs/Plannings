@@ -89,10 +89,6 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 	- Module 6 "Arbres généraux - Implémentations"
 		- Vidéo 1 : "Implémentations"
 		- S'évaluer
-	- Module 7 "A.B.R. - Présentation et recherche"
-		- Vidéo 1 : "Présentation"
-		- Vidéo 2 : "Recherche"
-		- S'évaluer
 - **Maths** : Modules 12, 13, 14
 - **Anglais CIE** : Chapitres 1, 2, 3 (Book II, 1984, G. Orwell)
 - **Anglais TIM** : Units 7, 8 (MOOC)
@@ -100,9 +96,10 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 ### Semaine du 18/02
 
 - **Algo**
-	- Module 8 "ABR : insertion et suppression"
-		- Vidéo 1 : "Ajout en feuille"
-		- Vidéo 2 : "Ajout en racine"
+	- Module 7 "A.B.R. - Présentation et recherche"
+		- Vidéo 1 : "Présentation"
+		- Vidéo 2 : "Recherche"
+		- S'évaluer
 - **Maths** : Modules 15, 16, 17
 - **Anglais CIE**
   - Première version concrète pour le projet de groupe (sur 1984, G. Orwell)
@@ -113,11 +110,20 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 
 ### Semaine du 18/03
 
+- **Algo**
+	- Module 8 "A.B.R. - Ajouts et suppression"
+		- Vidéo 1 : "Ajout en feuille"
+		- Vidéo 2 : "Ajout en racine"
 - **Maths** : Modules 18, 19
 - **Physique** : Modules 8, 9
 
 ### Semaine du 25/03
 
+- **Algo**
+	- Module 8 "A.B.R. - Ajouts et suppression"
+		- Vidéo 3 : "Suppression"
+		- Vidéo 4 : "Complexités - Conclusion"
+		- S'évaluer
 - **Maths** : Modules 20, 21, 22, 23
 
 /!\ **Contrôle TD** en Maths – Lundi 01/04 (infos dans [EXAMS.md](EXAMS.md))
@@ -143,10 +149,6 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 
 ### Autres MiMos d'Algo (non datés)
 
-- Module 8 "A.B.R. - Ajouts et suppression"
-  - Vidéo 3 : "Suppression"
-  - Vidéo 4 : "Complexités - Conclusion"
-  - S'évaluer
 - Module 9 "A-V.L. - Rotations et présentation"
 - Module 10 "A-V.L. - Insertion et suppression"
 - Modules 11, 12, 13 "Les arbres 2-3-4"
