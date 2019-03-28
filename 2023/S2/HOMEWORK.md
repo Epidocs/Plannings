@@ -17,11 +17,10 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 
 ### Semaine du 14/01
 
-- **Algo**
-	- Module 1 "Arbres binaires"
-		- Vidéo 1 : "Terminologie - arbres particuliers"
-		- Vidéo 2 : "Mesures - occurrences - numérotation hiérarchique"
-		- S'évaluer
+- **Algo** : Module 1 "Arbres binaires"
+	- Vidéo 1 : "Terminologie - arbres particuliers"
+	- Vidéo 2 : "Mesures - occurrences - numérotation hiérarchique"
+	- S'évaluer
 - **Maths** : Modules 1, 2, 4, 5
 - **Physique**
 	- Révisions S1
@@ -33,11 +32,10 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 
 ### Semaine du 21/01
 
-- **Algo**
-	- Module 2 "Arbres binaires - Parcours"
-		- Vidéo 1 : "Parcours profondeur"
-		- Vidéo 2 : "Parcours largeur"
-		- S'évaluer
+- **Algo** : Module 2 "Arbres binaires - Parcours"
+	- Vidéo 1 : "Parcours profondeur"
+	- Vidéo 2 : "Parcours largeur"
+	- S'évaluer
 - **Maths** : Module 6
 - **Physique**
 	- Module 13 (MiMos S1)
@@ -72,11 +70,10 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 ### Semaine du 04/02
 
 - **Prog** : C# TP7
-- **Algo**
-	- Module 5 "Arbres généraux - Parcours"
-		- Vidéo 1 : "Parcours profondeur"
-		- Vidéo 2 : "Parcours largeur"
-		- S'évaluer
+- **Algo** : Module 5 "Arbres généraux - Parcours"
+	- Vidéo 1 : "Parcours profondeur"
+	- Vidéo 2 : "Parcours largeur"
+	- S'évaluer
 - **Maths** : Modules 10, 11
 - **Physique** : Modules 6, 7
 - **Archi** : Cours Chapitre 2 (IV)
@@ -85,21 +82,19 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 
 ### Semaine du 11/02
 
-- **Algo**
-	- Module 6 "Arbres généraux - Implémentations"
-		- Vidéo 1 : "Implémentations"
-		- S'évaluer
+- **Algo** : Module 6 "Arbres généraux - Implémentations"
+	- Vidéo 1 : "Implémentations"
+	- S'évaluer
 - **Maths** : Modules 12, 13, 14
 - **Anglais CIE** : Chapitres 1, 2, 3 (Book II, 1984, G. Orwell)
 - **Anglais TIM** : Units 7, 8 (MOOC)
 
 ### Semaine du 18/02
 
-- **Algo**
-	- Module 7 "A.B.R. - Présentation et recherche"
-		- Vidéo 1 : "Présentation"
-		- Vidéo 2 : "Recherche"
-		- S'évaluer
+- **Algo** : Module 7 "A.B.R. - Présentation et recherche"
+	- Vidéo 1 : "Présentation"
+	- Vidéo 2 : "Recherche"
+	- S'évaluer
 - **Maths** : Modules 15, 16, 17
 - **Anglais CIE**
   - Première version concrète pour le projet de groupe (sur 1984, G. Orwell)
@@ -110,22 +105,23 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 
 ### Semaine du 18/03
 
-- **Algo**
-	- Module 8 "A.B.R. - Ajouts et suppression"
-		- Vidéo 1 : "Ajout en feuille"
-		- Vidéo 2 : "Ajout en racine"
+- **Algo** : Module 8 "A.B.R. - Ajouts et suppression"
+	- Vidéo 1 : "Ajout en feuille"
+	- Vidéo 2 : "Ajout en racine"
 - **Maths** : Modules 18, 19
-- **Physique** : Modules 8, 9
-- **Élec** : Module 2
+- **Physique**
+	- Module 8 "Les gaz parfaits"
+	- Module 9 "Le premier principe"
+- **Élec** : Module 2 "Filtres"
 
 ### Semaine du 25/03
 
-- **Algo**
-	- Module 8 "A.B.R. - Ajouts et suppression"
-		- Vidéo 3 : "Suppression"
-		- Vidéo 4 : "Complexités - Conclusion"
-		- S'évaluer
+- **Algo** : Module 8 "A.B.R. - Ajouts et suppression"
+	- Vidéo 3 : "Suppression"
+	- Vidéo 4 : "Complexités - Conclusion"
+	- S'évaluer
 - **Maths** : Modules 20, 21, 22, 23
+- **Anglais CIE** : False friends vocalbulary
 
 /!\ **Contrôle TD** en Maths – Lundi 01/04 (infos dans [EXAMS.md](EXAMS.md))
 
