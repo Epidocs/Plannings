@@ -25,7 +25,8 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 
 #### Contrôle TD – Lundi 01/04
 
-_Pas d'information pour le moment._
+- Les espaces vectoriels : ev, sev, sev engendré.
+- L'algèbre linéaire : Application linéaire, noyau et image d’une application linéaire, famille libre.
 
 #### AFIT (Semestre 1)
 
