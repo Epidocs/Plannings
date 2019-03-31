@@ -113,6 +113,7 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 	- Module 8 "Les gaz parfaits"
 	- Module 9 "Le premier principe"
 - **Élec** : Module 2 "Filtres"
+- **Archi** : Cours Chapitre 3 (I, II)
 - **Anglais CIE** : False friends vocalbulary
 
 ### Semaine du 25/03
@@ -122,6 +123,7 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 	- Vidéo 4 : "Complexités - Conclusion"
 	- S'évaluer
 - **Maths** : Modules 20, 21, 22, 23
+- **Archi** : Cours Chapitre 3 (III)
 - **Anglais CIE** : Chapitres 3, 4, 5 (Book II, 1984, G. Orwell)
 
 /!\ **Contrôle TD** en Maths – Lundi 01/04 (infos dans [EXAMS.md](EXAMS.md))
