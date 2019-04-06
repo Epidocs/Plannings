@@ -132,6 +132,8 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 
 - **Algo** : Module 9 "A-V.L. - Rotations et présentation"
 - **Maths** : Modules 24, 25
+- **Archi** : Cours Chapitre 4 (I, II)
+- **Anglais CIE** : Chapitres 6, 7, 8 (Book II, 1984, G. Orwell)
 
 ### Semaine du 08/04
 
