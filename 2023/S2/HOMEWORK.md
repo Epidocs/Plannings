@@ -134,6 +134,7 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 - **Maths** : Modules 24, 25
 - **Archi** : Cours Chapitre 4 (I, II)
 - **Anglais CIE** : Chapitres 6, 7, 8 (Book II, 1984, G. Orwell)
+- **Anglais TIM** : Article reçu par mail ("I Am Woman, Watch Me Hack" by CATHERINE RAMPELL - Oct 2013)
 
 ### Semaine du 08/04
 
