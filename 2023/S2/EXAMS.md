@@ -142,6 +142,58 @@ Le contrôle sera composé de :
 
 ## Partiels
 
+### Programmation
+
+**Tout est à réviser** (en C#, soyez pas idiots)
+
+_Un sujet de TP complémentaire est disponible sur l'intranet ACDC pour vous entraîner._
+
+### Algorithmique
+
+Tout depuis le contrôle de mi-semestre.
+
+- Les arbres binaires de recherche (ABR)
+- Les arbres AVL (Adelson-Velskii et Landis)
+
+### Mathématiques
+
+- L'algèbre linéaire
+- Les fractions rationnelles
+
+### Physique
+
+Réviser les MiMos suivants :
+- Les Gaz parfaits (Module 8)
+- Le premier principe (Module 9)
+
+Réviser les sujets de TD suivants :
+- Série 11
+- Série 12
+- Série 13
+
+_Le barème indiqué sur le sujet lors du partiel sera uniquement indicatif._
+
+### Électronique
+
+_Pas d'information pour le moment._
+
+### Architecture Sytème
+
+_Pas d'information pour le moment._
+
+### Anglais CIE
+
+Réviser sa grammaire anglaise :
+- Les temps de conjugaison
+- L'utilisation des gérondifs et de l'infinitif
+
+Lire le livre *1984, G. Orwell* :
+tout le livre est au programme de révision, mais en particulier la partie III.
+
+_Le contrôle ne sera pas un QCM._
+
+### Anglais TIM
+
 _Pas d'information pour le moment._
 
 
