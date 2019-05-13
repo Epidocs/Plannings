@@ -187,8 +187,8 @@ Réviser sa grammaire anglaise :
 - Les temps de conjugaison
 - L'utilisation des gérondifs et de l'infinitif
 
-Lire le livre *1984, G. Orwell* :
-tout le livre est au programme de révision, mais en particulier la partie III.
+Lire le livre *1984, G. Orwell* :  
+Tout le livre est au programme de révision, en particulier la partie III
 
 _Le contrôle ne sera pas un QCM._
 
