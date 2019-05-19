@@ -175,11 +175,21 @@ _Le barème indiqué sur le sujet lors du partiel sera uniquement indicatif._
 
 ### Électronique
 
-_Pas d'information pour le moment._
+Tout ce qui a été étudié au S2 est au programme de révision, sauf les calculs de valeurs moyennes.
+
+- Le régime variable
+- Les filtres
+  - Courbes de gain et de phase pour les filtres du premier ordre
 
 ### Architecture Sytème
 
-_Pas d'information pour le moment._
+- Chapitres 1, 2, 3
+- Chapitre 4 (parties I et II)
+- TDs 1, 2, 3, 4, 5
+
+### Techniques d'expression
+
+- QCM Voltaire: Français et culture générale
 
 ### Anglais CIE
 
@@ -194,7 +204,7 @@ _Le contrôle ne sera pas un QCM._
 
 ### Anglais TIM
 
-_Pas d'information pour le moment._
+- Compréhension de textes
 
 
 ## Rattrapages Partiels
