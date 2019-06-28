@@ -58,3 +58,16 @@ Vous aurez des exercices déjà vus mais aussi des nouveaux pour la partie diffi
 #### Maths
 
 Suites, arithmétique et fonctions.
+
+
+## Rattrapages Partiels
+
+Prévus le 9 et le 10 juillet 2019.
+
+Lien vers [les informations pour les rattrapages du S2](../S2/EXAMS.md#rattrapages-partiels).
+
+### Mathématiques
+
+Le contrôle portera sur sur l'ensemble des notions, sauf l'arithmétique.
+
+N’oubliez pas de réviser les notions vues au cours du séminaire.
