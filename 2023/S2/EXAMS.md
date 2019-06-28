@@ -181,7 +181,7 @@ Tout ce qui a été étudié au S2 est au programme de révision, sauf les calcu
 - Les filtres
   - Courbes de gain et de phase pour les filtres du premier ordre
 
-### Architecture Sytème
+### Architecture Système
 
 - Chapitres 1, 2, 3
 - Chapitre 4 (parties I et II)
@@ -219,3 +219,10 @@ Le contrôle portera sur :
 - Les équations différentielles
 - L'intégralité de l'algèbre linéaire
 - Les fractions rationnelles
+
+### Architecture Système
+
+- Nombres flottants
+- Bascules
+- Compteurs
+- Associations de mémoires
