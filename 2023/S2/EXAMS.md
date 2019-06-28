@@ -209,4 +209,13 @@ _Le contrôle ne sera pas un QCM._
 
 ## Rattrapages Partiels
 
-Prévus le 9 et le 10 juillet.
+Prévus le 9 et le 10 juillet 2019.
+
+Lien vers [les informations pour les rattrapages du S1](../S1/EXAMS.md#rattrapages-partiels).
+
+### Mathématiques
+
+Le contrôle portera sur :
+- Les équations différentielles
+- L'intégralité de l'algèbre linéaire
+- Les fractions rationnelles
