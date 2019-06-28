@@ -71,3 +71,9 @@ Lien vers [les informations pour les rattrapages du S2](../S2/EXAMS.md#rattrapag
 Le contrôle portera sur sur l'ensemble des notions, sauf l'arithmétique.
 
 N’oubliez pas de réviser les notions vues au cours du séminaire.
+
+### Architecture Système
+
+Le contrôle portera sur tout le semestre.
+- Conversions
+- Algèbre de Boole
