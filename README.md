@@ -1,14 +1,26 @@
-# Plannings EPITA
+# Epidocs / Plannings
 
-## Accès rapide
+[![Build Status](https://travis-ci.com/Epidocs/Plannings.svg?branch=master)](https://travis-ci.com/Epidocs/Plannings)
 
-- **2022 / Semestre 4** : [Planning de Travail](2022/S4/HOMEWORK.md) - ~~Informations Exams~~ (_non disponible_)
-- **2022# / Semestre 3** : [Planning de Travail](2022%23/S3/HOMEWORK.md) - ~~Informations Exams~~ (_non disponible_)
-- **2023 / Semestre 2** : [Planning de Travail](2023/S2/HOMEWORK.md) - [Informations Exams](2023/S2/EXAMS.md)
+Plannings and information for EPITA students.
 
-## Informations
+Visit the website: [plannings.epidocs.eu](https://plannings.epidocs.eu/)
 
-**Les documents de ce repository ne sont pas officiels**.
+
+## Contributing
+
+To contribute, you can fork this project, add or edit files and then open a pull request.
+
+
+## Notice
+
+**Documents on this repository are unofficial**
+
+---
+
+## Information
+
+**Documents on this repository are unofficial**
 
 Ils visent à regrouper les informations données par les professeurs et l'administration pour vous permettre de travailler et de préparer vos contrôles.
 
@@ -17,7 +29,6 @@ Il en est de votre responsabilité de vous assurer que votre travail personnel a
 
 Vous êtes invités à contribuer au document si vous y trouvez une erreur ou qu'il manque une quelconque information.
 
----
 
 ## Structure du repository
 
@@ -26,11 +37,3 @@ Vous êtes invités à contribuer au document si vous y trouvez une erreur ou qu
 - Chaque semestre possède les **fichiers d'informations** :
   - `HOMEWORK.md` – Planning du travail personnel : MiMos, Cours et TDs à voir ou à revoir.
   - `EXAMS.md` – Informations sur les examens : QCMs, Contrôles TD, Midterms, Partiels.
-
----
-
-**Administrateur du repository :** Mathieu Guérin ("Matiboux")
-
-Un problème, une question, une suggestion ? [Contactez-moi](CONTACT.md) !
-
-❤
