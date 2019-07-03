@@ -1,4 +1,14 @@
-# Exams S2 (2023)
+---
+layout: default
+title: Exams S2 (2023)
+breadcrumb:
+- Home
+- 2023
+- S2
+- Exams
+---
+
+# {{ page.title }}
 
 Ce document regroupe les informations sur toutes les matières évalués, pour :
 - Les QCMs et TDs au cours de l'année.

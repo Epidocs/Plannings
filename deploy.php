@@ -47,6 +47,9 @@ function getMetaInfos($pathList) {
 		}
 		
 		if($isDir) {
+			if(isset($metaJSONs[$dir]['folder']))
+				$metaInfos[$i] = $metaJSONs[$dir]['folder'];
+			
 			// Check if no subfiles in this folder
 			$subfiles = glob($path . '/*.*');
 			if(empty($subfiles)) {

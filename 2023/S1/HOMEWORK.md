@@ -1,4 +1,14 @@
-# Planning S1 (2023)
+---
+layout: default
+title: Planning S1 (2023)
+breadcrumb:
+- Home
+- 2023
+- S1
+- Planning
+---
+
+# {{ page.title }}
 
 Ce document résume brièvement le travail à faire pour chaque semaine.
 Le travail pour chaque semaine est à faire durant celle-ci, et doit être terminé pour la semaine suivante. Ce sera notamment utile pour préparer correctement vos QCMs.

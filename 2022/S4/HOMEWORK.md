@@ -1,4 +1,14 @@
-# Planning S4 (2022)
+---
+layout: default
+title: Planning S4 (2022)
+breadcrumb:
+- Home
+- 2022
+- S4
+- Planning
+---
+
+# {{ page.title }}
 
 Ce document résume brièvement le travail à faire pour chaque semaine.
 Le travail pour chaque semaine est à faire durant celle-ci, et doit être terminé pour la semaine suivante. Ce sera notamment utile pour préparer correctement vos QCMs.
