@@ -27,6 +27,10 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 
 ### Semaine du 16/09
 
+- **Algo** :
+	- Révisions de S2 : "Arbres généraux" et "Arbres 2-3-4"
+	- Modules 1 "Hachage : principe et méthodes de base"
+	- TD 0
 - **Maths** : Modules 1, 2, 3, 4
 - **Physique**
 	- Modules 1 "Charge électrique"
