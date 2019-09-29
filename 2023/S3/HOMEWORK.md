@@ -39,11 +39,14 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 ### Semaine du 23/09
 
 - **Maths** : Modules 5, 6
-- **Élec** : Modules 1 "Fonctionnement d'une diode"
-	- Vidéo 1 : "Les semi-conducteurs"
-	- Vidéo 2 : "La jonction PN"
-	- Vidéo 3 : "La diode"
-	- Vidéo 4 : "La modélisation de la diode"
+- **Élec** :
+	- Modules 1 "Fonctionnement d'une diode"
+		- Vidéo 1 : "Les semi-conducteurs"
+		- Vidéo 2 : "La jonction PN"
+		- Vidéo 3 : "La diode"
+		- Vidéo 4 : "La modélisation de la diode"
+	- Chapitre 0 "Les Semi-Conducteurs"
+- **Physique**: Modules 4 "Le potentiel électrique"
 
 ### Semaine du 30/09
 
