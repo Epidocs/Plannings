@@ -38,6 +38,9 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 
 ### Semaine du 23/09
 
+- **Algo** : Module 2 "Hachage : résolution des collisions par chaînage"
+	- Vidéo 1 : "Introduction"
+	- Vidéo 2 : "Chaînage séparé"
 - **Maths** : Modules 5, 6
 - **Élec** :
 	- Modules 1 "Fonctionnement d'une diode"
@@ -50,19 +53,44 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 
 ### Semaine du 30/09
 
+- **Algo** : Module 2 "Hachage : résolution des collisions par chaînage"
+	- Vidéo 3 : "Hachage coalescent"
+	- S'évaluer
 - **Maths** : Modules 5, 6
 
 ### Semaine du 07/10
 
+- **Algo** : Module 3 "Hachage : résolution des collisions par calcul"
 - **Maths** : Module 7
 
 ### Semaine du 14/10
 
+- **Algo** : Module 4 "Les graphes : description - terminologie"
 - **Maths** : Module 8
+
+### Semaine du 21/10
+
+- **Algo** : Module 5 "Représentation des graphes"
 
 ### Semaine du 04/11 – Midterms
 
 /!\ **Programme des Midterms** dans [EXAMS.md # Midterms](EXAMS.md#midterms).
+
+### Semaine du 11/11
+
+- **Algo** : Module 6 "Parcours de graphe"
+
+### Semaine du 18/11
+
+- **Algo** : Module 7 "Connexité des graphes non orientés"
+	- Vidéo 1 : "Introduction"
+	- Vidéo 2 : "Cas statique"
+
+### Semaine du 25/11
+
+- **Algo** : Module 7 "Connexité des graphes non orientés"
+	- Vidéo 3 : "Cas dynamique"
+	- S'évaluer
 
 ### Semaine du 16/12 – Partiels
 
