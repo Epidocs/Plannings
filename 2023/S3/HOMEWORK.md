@@ -50,6 +50,7 @@ Pour plus d'informations, consultez le fichier [README.md](../../README.md).
 		- Vidéo 4 : "La modélisation de la diode"
 	- Chapitre 0 "Les Semi-Conducteurs"
 - **Physique**: Modules 4 "Le potentiel électrique"
+- **Anglais**: Present, Past, simple and progressive
 
 ### Semaine du 30/09
 
